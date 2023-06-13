@@ -1,0 +1,20 @@
+{
+  "name": "datalatte-survey-factory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "@truffle/hdwallet-provider": "^2.1.9",
+    "@oceanprotocol/lib": "^2.7.0",
+    "dotenv": "^16.0.3",
+    "web3": "^1.9.0",
+    "hardhat": "^2.14.0"
+  }
+}
